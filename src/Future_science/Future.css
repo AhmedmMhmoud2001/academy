@@ -1,0 +1,40 @@
+.Futurelg{
+    width: 90px;
+    height: 90px;
+    font-size: 40px;
+    margin: 0px 40px;
+    padding: 10px 20px 0px;
+}
+h2{
+    padding: 0px 20px;
+    margin: 10px 40px 40px;
+}
+.Futureele{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+    align-items: center;
+    margin: 20px ;
+    width: 30%;
+    overflow: hidden;
+}
+.Future_st {
+    font-size: 18px;
+    font-weight: 550;
+}
+.Future_st:hover{
+    color:blueviolet;
+}
+.Future_lg {
+    width: 40px;
+    height: 40px;
+    background: rgb(10, 211, 245);
+    border-radius: 50%;
+    margin: 0px 20px 0px ;
+}
+.col{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    
+}

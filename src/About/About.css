@@ -1,0 +1,10 @@
+.About  {
+    margin:0px 80px;
+    padding: 20px;
+    font-size: 18px;
+    line-height: 2;
+}
+.About h2 {
+    text-align: center;
+    color: blueviolet;
+}

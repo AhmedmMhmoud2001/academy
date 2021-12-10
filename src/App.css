@@ -1,0 +1,28 @@
+.App{
+  margin: 0;
+  padding: 0;
+  /* overflow-x: hidden;
+  scroll-behavior: smooth; */
+}
+
+/* start preload clock  */
+.preloud1{
+  position: relative;
+}
+.preloud{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+  background:#fff;
+  width: 100%;
+  z-index: 1000;
+}
+.preloud img {
+  height: 120px;
+}
+.HomeN {
+  display: none;
+}
+/* End preload clock  */

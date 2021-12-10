@@ -1,0 +1,40 @@
+.Sciencelg{
+    width: 90px;
+    height: 90px;
+    font-size: 40px;
+    margin: 0px 40px;
+    padding: 10px 20px 0px;
+}
+h2{
+    padding: 0px 20px;
+    margin: 10px 40px 40px;
+}
+.scienceele{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+    align-items: center;
+    margin: 20px ;
+    width: 30%;
+    overflow: hidden;
+}
+.science_st {
+    font-size: 18px;
+    font-weight: 550;
+}
+.science_st:hover{
+    color:blueviolet;
+}
+.science_lg {
+    width: 40px;
+    height: 40px;
+    background: rgb(189, 77, 144);
+    border-radius: 50%;
+    margin: 0px 20px 0px ;
+}
+.col{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    
+}

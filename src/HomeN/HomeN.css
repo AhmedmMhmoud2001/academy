@@ -1,0 +1,128 @@
+header {
+   padding: 0;
+   margin: -20px 0px ;
+   background: #fff;
+   position:sticky;
+   z-index: 100;
+   top: 0px;
+}
+header ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+header ul li {
+    list-style: none;
+    
+}
+header ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color:#000;
+    font-family:'Courier New', Courier, monospace;
+    position: relative;
+
+}
+header ul li a:hover {
+    color: blueviolet;
+    text-shadow: 2px 2px 2px  rgb(172, 116, 224);
+
+}
+/* header ul li a::after{
+    content: '';
+    width: 0%;
+    height: 3px;
+    background: blueviolet;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: all ease .5s;
+
+}
+header ul li a:hover::after {
+    width: 100%;
+} */
+header ul li p {
+    padding: 0;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 900;
+    color: blueviolet;
+}
+header button {
+   color:#fff;
+   background: blueviolet;
+   font-family:'Courier New', Courier, monospace;
+   font-size: 18px;
+   border-radius: 5px;
+   border: none;
+   padding: 5px;
+}
+header button:hover{
+    box-shadow: 2px 2px 2px 2px rgb(172, 116, 224);
+    cursor: pointer;
+}
+
+
+footer{
+    padding: 30px;
+    background: blueviolet;
+}
+
+.footerlink {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   padding: 40px 30px 10px 30px;
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 2;
+}
+
+.copyright {
+   margin-left: 120px;
+    font-size: 18px;
+    font-weight: 500;
+    
+}
+.footerlink div div:hover {
+    color: #fff;
+    text-shadow: 2px 2px 2px #f0f0f0;
+
+}
+.copyright span {
+    color: #fff;
+    text-shadow: 2px 2px 2px #f0f0f0;}
+
+.signup {
+    display:none;
+    height: 100vh;
+    width:100%;
+}
+.signin {
+    display:none;
+    height: 80vh;
+    width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 900px) {
+    .LIAbout {display: none;}
+    .LITerms {display: none;}
+  }
+  @media only screen and (max-width: 600px) {
+    .LISignIn {display: none;}
+    .LICall {display: none;}
+  }

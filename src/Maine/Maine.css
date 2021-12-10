@@ -1,0 +1,44 @@
+main {
+    /* padding: 250px; */
+    text-align: center;
+    background: url(../img/bg.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover ;
+    height:90vh;
+    opacity: 0.9;
+    margin-top: -80px;
+}
+main p {
+    color: white;
+    font-size: 75px;
+    padding-top:20vh ;
+}
+main p:hover{
+    color: blueviolet;
+    text-shadow: 2px 2px 2px  rgb(172, 116, 224);
+}
+main a button {
+    color:#fff;
+    background: blueviolet;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 10;
+ }
+ main a button:hover{
+     box-shadow: 2px 2px 2px 2px rgb(172, 116, 224);
+     cursor: pointer;
+ }
+ .section2 {
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     align-items: center;
+     margin: 50px 100px;
+ }
+ .section21 {
+     width: 500px;
+ }

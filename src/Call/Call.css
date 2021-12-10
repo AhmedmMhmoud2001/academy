@@ -1,0 +1,45 @@
+form {
+    width:400px;
+    margin: 40px auto ;
+    padding: 0px 0px 0px 20px;
+    border: 2px solid #000 !important;
+    border-radius: 0px 30px 0px 30px;
+    box-shadow: 2px 2px 5px 2px rgb(95, 92, 92);
+    
+}
+
+
+label {
+    display: block;
+    font-size: 20px;
+    color:blueviolet;
+    margin-top: 20px;
+}
+input {
+    display: block;
+    width:350px;
+    height: 40px;
+    border-radius: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid block;
+    /* outline: none; */
+    font-size: 18px;
+    padding-left:20px ;
+}
+textarea {
+    width:350px;
+    border-radius: 5px;
+}
+.button3 {
+    width:100px;
+    margin: 30px 130px;
+    font-size: 18px;
+    background: blueviolet ;
+    border:none;
+    border-radius:5px;
+    color:#fff;
+    padding: 5px;
+
+}

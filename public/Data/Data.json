@@ -1,0 +1,588 @@
+{
+     
+    "Maths":[
+        {
+            "id":"1",
+            "title":"count",
+            "photo":"https://www.youtube.com/embed/KUInIEFWpNI" 
+
+        },
+        {
+            "id":"2",
+            "title":"ction of numbers from 0 to 20",
+            "photo":"https://www.youtube.com/embed/dhptxDJzB_k"
+            
+
+        },
+        {
+            "id":"3",
+            "title":" Measurement and data",
+            "photo":"https://www.youtube.com/embed/-SdICc8Z6Co"
+
+        }
+        ,
+        {
+            "id":"4",
+            "title":"Multiplication and division",
+            "photo":"https://www.youtube.com/embed/-SdICc8Z6Co"
+
+
+        },
+        {
+            "id":"5",
+            "title":"lace value and approximation",
+            "photo":"https://www.youtube.com/embed/dhptxDJzB_k"
+
+        },
+        {
+            "id":"6",
+            "title":"Place value and rounding",
+            "photo":"https://www.youtube.com/embed/KUInIEFWpNI" 
+
+        },
+        {
+            "id":"7",
+            "title":"athematical logic application",
+            "photo":"https://www.youtube.com/embed/dhptxDJzB_k"
+
+        },
+        {
+            "id":"8",
+            "title":"properties of numbers",
+            "photo":"https://www.youtube.com/embed/KUInIEFWpNI" 
+
+        },
+        {
+            "id":"9",
+            "title":"Equivalent expressions",
+            "photo":"https://www.youtube.com/embed/-SdICc8Z6Co"
+
+        },
+        {
+            "id":"10",
+            "title":"d division of negative numbers",
+            "photo":"https://www.youtube.com/embed/-SdICc8Z6Co"
+
+
+        },
+        {
+            "id":"11",
+            "title":"ns, Equations, and Inequalities",
+            "photo":"https://www.youtube.com/embed/dhptxDJzB_k"
+
+        },
+        {
+            "id":"12",
+            "title":"g equations with one variable",
+            "photo":"https://www.youtube.com/embed/KUInIEFWpNI"
+
+        },
+        {
+            "id":"13",
+            "title":"Data and Forms",
+            "photo":"https://www.youtube.com/embed/KUInIEFWpNI"
+
+        },
+        {
+            "id":"14",
+            "title":"Trigonometry",
+            "photo":"https://www.youtube.com/embed/KUInIEFWpNI"
+
+        },
+        {
+            "id":"15",
+            "title":" differentiation"
+            ,
+            "photo":"https://www.youtube.com/embed/KUInIEFWpNI"
+
+        },
+        {
+            "id":"16",
+            "title":" Multivariable Calculus",
+            "photo":"https://www.youtube.com/embed/KUInIEFWpNI"
+
+        },
+        {
+            "id":"17",
+            "title":" 2: the concept of congruence",
+            "photo":"https://www.youtube.com/embed/KUInIEFWpNI"
+
+        }
+        ,
+        {
+            "id":"18",
+            "title":" engineering transformations",
+            "photo":"https://www.youtube.com/embed/KUInIEFWpNI"
+
+        }
+        ,
+        {
+            "id":"19",
+            "title":" Relative relations",
+            "photo":"https://www.youtube.com/embed/dhptxDJzB_k"
+
+        }
+        ,
+        {
+            "id":"20",
+            "title":" Model 4: Linear Equations",
+            "photo":"https://www.youtube.com/embed/dhptxDJzB_k"
+
+        }
+        ,
+        {
+            "id":"21",
+            "title":"  differential equations",
+            "photo":"https://www.youtube.com/embed/dhptxDJzB_k"
+        }
+       ],
+       
+    "science" :[
+      {
+          "id":"39",
+         "title" :" Physics",
+         "photo":"https://www.youtube.com/embed/dhptxDJzB_k"
+      },
+      {
+        "id":"40",
+       "title" :"  chemistry",
+       "photo":"https://www.youtube.com/embed/dhptxDJzB_k"
+    },
+    {
+        "id":"41",
+       "title" :" Biology",
+       "photo":"https://www.youtube.com/embed/dhptxDJzB_k"
+    },
+    {
+        "id":"42",
+       "title" :" cosmology and astronomy",
+       "photo":"https://www.youtube.com/embed/dhptxDJzB_k"
+    },
+    {
+        "id":"43",
+       "title" :"electrical engineering",
+       "photo":"https://www.youtube.com/embed/dhptxDJzB_k"
+    }
+      
+    ],
+    "chemistry":[
+        {
+            "id":"44",
+            "title":"ectronic structure of the atom"
+            ,
+       "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+            
+        },
+        {
+            "id":"45",
+            "title":" Periodic Table",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"46",
+            "title":"Chemical bonds",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"47",
+            "title":"d Molecular Molecular Theory",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"48",
+            "title":"lar states of matter and force",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"49",
+            "title":" chemical equilibrium",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"50",
+            "title":" Acids and bases",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"51",
+            "title":"ion and solubility equilibrium",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"52",
+            "title":"Thermodynamics",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"53",
+            "title":"actions and electrochemistry",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"54",
+            "title":" Kinetics of interactions",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"55",
+            "title":" advanced chemistry",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"56",
+            "title":"  careers in chemistry",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"57",
+            "title":" organic chemistry",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+    ],
+    "Biology":[
+        {
+            "id":"1",
+            "title":" macromolecules",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        },
+        {
+            "id":"2",
+            "title":" Energy and enzymes",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"3",
+            "title":" cell parts",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"4",
+            "title":"Cellular respiration",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"5",
+            "title":"Photosynthesis",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"6",
+            "title":" s and Molecular Transmission",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"7",
+            "title":"intercellular communication",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"8",
+            "title":" cell parts",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"9",
+            "title":" cell division",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"10",
+            "title":"lassical and Molecular Genetics",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"11",
+            "title":"  DNA as genetic material",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"12",
+            "title":" Gene regulation",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"13",
+            "title":" Biotechnology",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"14",
+            "title":"logy and growth of organisms",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+       ,
+        {
+            "id":"15",
+            "title":"Evolution and the tree of life",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"16",
+            "title":"The history of life on earth",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"17",
+            "title":"Ecology",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"18",
+            "title":"odiversity and its conservation",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"19",
+            "title":"human biology",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"20",
+            "title":" plant biology",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"21",
+            "title":" Anatomy and Physiology",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"22",
+            "title":" circulatory system physiology",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"23",
+            "title":"ases of the circulatory system",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"24",
+            "title":"anced Respiratory Physiology",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"25",
+            "title":"respiratory system diseases",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"26",
+            "title":"advanced blood physiology",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"27",
+            "title":" Blood diseases",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+        ,
+        {
+            "id":"28",
+            "title":"vanced Endocrine Physiology",
+            "photo":"https://www.youtube.com/embed/YF--S7DXH98"
+        }
+
+
+    ]
+    ,
+    "Physics":[
+        {
+            "id":"1",
+            "title":"Movement in one dimension"
+        }
+        ,
+        {
+            "id":"2",
+            "title":"2D motion"
+        }
+        ,
+        {
+            "id":"3",
+            "title":" and Newton's Laws of Motion"
+        }
+        ,
+        {
+            "id":"4",
+            "title":"work and energy"
+        }
+        ,
+        {
+            "id":"5",
+            "title":"lisions and Linear Momentum"
+        }
+        ,
+        {
+            "id":"6",
+            "title":""
+        }
+        ,
+        {
+            "id":"7",
+            "title":"que and angular momentum"
+        }
+        ,
+        {
+            "id":"8",
+            "title":"rations and mechanical waves"
+        }
+        ,
+        {
+            "id":"9",
+            "title":"fluid"
+        }
+        ,
+        {
+            "id":"10",
+            "title":"arge, electric field and voltage"
+        }
+        ,
+        {
+            "id":"11",
+            "title":"electrical circuits"
+        }
+        ,
+        {
+            "id":"12",
+            "title":"gnetic field and Faraday's law"
+        }
+        ,
+        {
+            "id":"13",
+            "title":"agnetic waves and interference"
+        }
+        ,
+        {
+            "id":"14",
+            "title":"geometric optics"
+        },
+        {
+            "id":"15",
+            "title":" special theory of relativity"
+        }
+        ,
+        {
+            "id":"16",
+            "title":" Quantum physics"
+        }
+        ,
+        {
+            "id":"17",
+            "title":"Discoveries and experiences"
+        }
+        ,
+        {
+            "id":"18",
+            "title":" audit"
+        }
+    ]
+    ,
+    "Arabic":[
+        {
+            "id":"1",
+            "title":"Vocabulary"
+        }
+        ,
+        {
+            "id":"2",
+            "title":"Reading Basics"
+        }
+        ,
+        {
+            "id":"3",
+            "title":"Writing"
+        }
+        ,
+        {
+            "id":"4",
+            "title":" Line"
+        }
+        ,
+        {
+            "id":"5",
+            "title":"Conversation"
+        }
+        ,
+        {
+            "id":"6",
+            "title":" Poetry"
+        }
+        ,
+        {
+            "id":"7",
+            "title":"rhetoric"
+        }
+        ,
+        {
+            "id":"8",
+            "title":"grammar"
+        }
+        ,
+        {
+            "id":"9",
+            "title":"Self development"
+        }
+        ,
+        {
+            "id":"10",
+            "title":"Vocabulary"
+        }
+        ,
+        {
+            "id":"11",
+            "title":"ab sciences and inventions"
+        }
+        ,
+        {
+            "id":"12",
+            "title":"texts"
+        }
+        ,
+        {
+            "id":"13",
+            "title":"Our language is Arabic"
+        }
+        ,
+        {
+            "id":"14",
+            "title":" dictation"
+        }
+        ,
+        {
+            "id":"15",
+            "title":"Arab scholars"
+        }
+        
+    ]
+    ,
+    "future":[
+        {
+            "id":"1",
+            "title":"future science series for kids"
+        }
+    ]
+}

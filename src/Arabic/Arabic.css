@@ -1,0 +1,40 @@
+.Arabiclg{
+    width: 90px;
+    height: 90px;
+    font-size: 40px;
+    margin: 0px 40px;
+    padding: 10px 20px 0px;
+}
+h2{
+    padding: 0px 20px;
+    margin: 10px 40px 40px;
+}
+.Arabicele{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+    align-items: center;
+    margin: 20px ;
+    width: 30%;
+    overflow: hidden;
+}
+.Arabic_st {
+    font-size: 18px;
+    font-weight: 550;
+}
+.Arabic_st:hover{
+    color:blueviolet;
+}
+.Arabic_lg {
+    width: 40px;
+    height: 40px;
+    background: rgb(255, 131, 83);
+    border-radius: 50%;
+    margin: 0px 20px 0px ;
+}
+.col{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    
+}

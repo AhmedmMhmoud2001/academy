@@ -1,0 +1,136 @@
+.Home-bg{
+    height: 70vh;
+    width: 100%;
+    background: blueviolet;
+    position: relative;
+}
+
+.Home-bg input {
+    position: absolute;
+
+    text-align: center;
+
+    height: 35px;
+    width: 40%;
+    top: 15vh;
+    left:30% ;
+    right: 30%;
+    border: none;
+    border-radius: 25px;
+}
+.Link-main {
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+
+      
+}
+.Link-main div{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+.Link-main a {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    
+}
+
+.mathematics{
+   
+   border-radius: 50%;
+   background:rgb(242, 200, 74);
+}
+.mathematics img {
+    padding: 20px;
+     height: 50px;
+}
+.Science{
+    
+    border-radius: 50%;
+    background:rgb(189, 77, 144);
+ }
+ .Science img {
+    padding: 20px;
+    height: 50px;
+ }
+ .Chemistry{
+   
+    border-radius: 50%;
+    background:rgb(75, 63, 151);
+ }
+ .Chemistry img{
+    padding: 20px;
+     height: 50px;
+ }
+ .Biology{
+   
+    border-radius: 50%;
+    background:rgb(77, 145, 255);
+ }
+ .Biology img {
+    padding: 20px;
+    height: 50px;
+ }
+ .Physics{
+  
+    border-radius: 50%;
+    background:rgb(72, 169, 151);
+ }
+ .Physics img {
+    padding: 20px;
+    height: 50px;
+ }
+ .Arabic{
+    border-radius: 50%;
+    background:rgb(255, 131, 83);
+ }
+ .Arabic img {
+    padding: 20px;
+    height: 50px;
+ }
+ .Future_science{
+    border-radius: 50%;
+    background:rgb(10, 211, 245);
+ }
+ .Future_science img {
+     padding: 20px;
+     height: 50px;
+ }
+ 
+
+ 
+.Distinguished {
+   text-align: center;
+   padding: 30px;
+   color: blueviolet;
+   font-size: 22px;
+   font-weight: 900;
+}
+.Main1 {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   
+}
+.Main1 img {
+   width: 240px;
+   height: 240px;
+   border-radius: 50%;
+}
+
+.Main1 p {
+   color: blueviolet;
+   font-size: 18px;
+   text-align: center;
+   font-weight: 500;
+   padding: 10px;
+}
